@@ -4,7 +4,7 @@ appodeal.com, 212326, DIRECT
 #BidMachine  
 bidmachine.io, 212326, DIRECT  
 #AdMob  
-google.com, pub-7861947015207261, DIRECT, f08c47fec0942fa0  
+google.com, pub-5599179184224709, DIRECT, f08c47fec0942fa0  
 #Meta-Audience  
 facebook.com, 1503729993788685, DIRECT, c3e20eee3f780d68  
 
